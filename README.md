@@ -1,15 +1,15 @@
 ```js
-class Astpod {
+class Leavenfrosty {
   constructor(...options) {
-    this.height = "1.87"
-    this.weight = "76"
+      this.height = "1.80"
+    this.weight = "90"
     this.type = "human"
-    this.job = "Civil Engineer"
+    this.job = "Civil Engineer , Technical office engineer"
     this.gender = "male"
   }
 }
 
-class CreateMan extends Astpod {
+class CreateMan extends Leavenfrosty {
   constructor(...options) {
     super(options);
   }
@@ -34,13 +34,13 @@ class CreateMan extends Astpod {
   
 }
 
-let Astpod = new CreateMan()
-Astpod.createDay();
+let Leavenfrosty = new CreateMan()
+Leavenfrosty.createDay();
 ```
 
-<img src="https://komarev.com/ghpvc/?username=Astpod&label=Ziyaretçi%20Sayısı&color=552b75" alt="Astpod" />
+<img src="https://komarev.com/ghpvc/?username=Astpod&label=Ziyaretçi%20Sayısı&color=552b75" alt="Leavenfrosty />
 
-[![Discord Profile](https://lanyard-profile-readme.vercel.app/api/894270550690635846)](https://discord.com/users/894270550690635846)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1149811924561834014)](https://discord.com/users/1149811924561834014)
 
 
 ## 🔧 Languages
