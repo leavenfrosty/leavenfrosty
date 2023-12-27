@@ -38,7 +38,7 @@ let Leavenfrosty = new CreateMan()
 Leavenfrosty.createDay();
 ```
 
-<img src="https://komarev.com/ghpvc/?username=Astpod&label=Ziyaretçi%20Sayısı&color=552b75" alt="Leavenfrosty />
+
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1149811924561834014)](https://discord.com/users/1149811924561834014)
 
