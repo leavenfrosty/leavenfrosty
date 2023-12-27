@@ -1,28 +1,71 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is emir
-============================================================================================================================
+```js
+class Astpod {
+  constructor(...options) {
+    this.height = "1.87"
+    this.weight = "76"
+    this.type = "human"
+    this.job = "Civil Engineer"
+    this.gender = "male"
+  }
+}
 
-Web Developer
--------------
+class CreateMan extends Astpod {
+  constructor(...options) {
+    super(options);
+  }
+  
+  private _eating() {
+    void "eating 🍔 🍟 🍗 🥤"
+  }
+  
+  private _coding() {
+    void "coding... ❤️"
+  }
+  
+  private _sleep(ms) { return new Promise(resolve => setTimeout(resolve, ms)) }
+  
+  async createDay() {
+    this._eating()
+    this._coding()
+    await this._sleep(18000000)
+    
+    this.createDay()
+  }
+  
+}
 
-* 🌍  I'm based in New york
-* 🖥️  See my portfolio at [emir](http://https://lnkfi.re/emir)
-* 🧠  I'm learning C++
+let Astpod = new CreateMan()
+Astpod.createDay();
+```
 
-<a href="https://www.github.com/leavenfrosty" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/leavenfrosty?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<img src="https://komarev.com/ghpvc/?username=Astpod&label=Ziyaretçi%20Sayısı&color=552b75" alt="Astpod" />
 
-### Skills
+[![Discord Profile](https://lanyard-profile-readme.vercel.app/api/894270550690635846)](https://discord.com/users/894270550690635846)
 
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+## 🔧 Languages
+- ![](https://img.shields.io/badge/Code-JavaScript-black?style=flat-square&logo=javascript&logoColor=brightgreen)
+- ![](https://img.shields.io/badge/Code-Python-black?style=flat-square&logo=python&logoColor=magenta)
+- ![](https://img.shields.io/badge/Code-Java-black?style=flat-square&logo=java&logoColor=white)
+- ![](https://img.shields.io/badge/Tools-MongoDB-black?style=flat-square&logo=mongodb&logoColor=cyan)
+
+## 🧮 Stats
+<a href="https://github.com/Astpod/astpod">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astpod&hide=c%2B%2B,c,html&title_color=d6826d&text_color=FF00FF&icon_color=6aa6f8&bg_color=0e1116" alt="Astpod GitHub Stats" />
+</a>
+
+
+## 🏆 Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Astpod&theme=dracula&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+<h3>🌟 Contacts!</h3>
+<p align="center">
+     <a href="https://www.instagram.com/batuu.frt" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+       <a href="https://twitch.tv/Astpodxd" target"blank_"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+ <a href="https://open.spotify.com/user/5ksbqa8t6kdo38dmfi8nof51z?si=7389677a8b2e44ed" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+     <a href="mailto:batufrt3145@gmail.com?body=Merhaba" target"blank_"><img src="https://img.shields.io/badge/Gmail-09ffeb?style=for-the-badge&logo=gmail&logoColor=white"></a>
+      <a href="https://discord.com/users/133210366820745216" target"blank_"><img src="https://img.shields.io/badge/Discord-ffbb00?style=for-the-badge&logo=discord&logoColor=white"></a>
+
 </p>
-
-
-### Socials
-
-<p align="left"> <a href="https://discord.com/users/1149811924561834014" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/leavenfrosty" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<a href="https://github.com/leavenfrosty" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leavenfrosty&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
