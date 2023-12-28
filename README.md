@@ -41,7 +41,7 @@ Leavenfrosty.createDay();
 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1149811924561834014)](https://discord.com/users/1149811924561834014)
-
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=b8flkn9wrt79ld5hclm4y2x8k&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=b8flkn9wrt79ld5hclm4y2x8k&cover_image=true&theme=default&show_offline=false&background_color=14f5b2&interchange=true&bar_color=8d12f3&bar_color_cover=true)]]
 
 ## 🔧 Languages
 
