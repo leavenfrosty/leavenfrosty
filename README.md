@@ -46,7 +46,11 @@ let Leavenfrosty = new CreateMan()
 Leavenfrosty.createDay();
 ```
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/leavenfrosty/count.svg?"  />
+</div>
 
+###
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1149811924561834014)](https://discord.com/users/1149811924561834014)
 
@@ -94,9 +98,6 @@ Leavenfrosty.createDay();
 </p>
 
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/leavenfrosty/count.svg?"  />
-</div>
 
 ###
 ###
