@@ -50,7 +50,7 @@ Leavenfrosty.createDay();
 [![Discord Presence](https://lanyard.cnrad.dev/api/1149811924561834014)](https://discord.com/users/1149811924561834014)    <img align="right" height="200" src="https://cdn.discordapp.com/attachments/1073425075862257724/1154432501608087582/indir_1.gif?ex=6596c88c&is=6584538c&hm=03b3c2b46a4e91b2428c04c734e033390647258af82c505355d40a21bccd91dd&"  />
 
 ###
-
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=b8flkn9wrt79ld5hclm4y2x8k&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" /></div>  
 
 </div>
 ## 🔧 Languages
