@@ -58,7 +58,7 @@ Leavenfrosty.createDay();
 - ![](https://img.shields.io/badge/Code-Java-black?style=flat-square&logo=java&logoColor=white)
 - ![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-## 🔧 Languages
+## 🔧 Always
 
 - ![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 - ![](https://img.shields.io/badge/Glitch-2800ff?style=for-the-badge&logo=glitch&logoColor=white)
