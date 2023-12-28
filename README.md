@@ -101,7 +101,7 @@ Leavenfrosty.createDay();
 
 ## 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Astpod&theme=dracula&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
+![](https://github-contributor-stats.vercel.app/api?username=leavenfrosty&limit=5&theme=alduin&combine_all_yearly_contributions=true)
 
 
 <h3>🌟 Contacts!</h3>
