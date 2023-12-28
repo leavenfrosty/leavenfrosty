@@ -84,12 +84,14 @@ Leavenfrosty.createDay();
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36" height="36" alt="Amazon Web Services" /></a>
 </p>
-
+![](https://github-readme-stats.vercel.app/api?username=leavenfrosty&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=leavenfrosty&theme=blueberry&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=leavenfrosty&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ## 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Astpod&theme=dracula&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=b8flkn9wrt79ld5hclm4y2x8k&cover_image=true&theme=default&show_offline=false&background_color=14f5b2&interchange=true&bar_color=8d12f3&bar_color_cover=true)]]
+
 
 
 <h3>🌟 Contacts!</h3>
