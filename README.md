@@ -47,7 +47,9 @@ Leavenfrosty.createDay();
 
 ###
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1149811924561834014)](https://discord.com/users/1149811924561834014)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1149811924561834014)](https://discord.com/users/1149811924561834014)    <img align="right" height="200" src="https://cdn.discordapp.com/attachments/1073425075862257724/1154432501608087582/indir_1.gif?ex=6596c88c&is=6584538c&hm=03b3c2b46a4e91b2428c04c734e033390647258af82c505355d40a21bccd91dd&"  />
+
+###
 
 
 ## 🔧 Languages
