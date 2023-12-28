@@ -113,6 +113,9 @@ Leavenfrosty.createDay();
       <a href="" target"blank_"><img src="https://img.shields.io/badge/Discord-ffbb00?style=for-the-badge&logo=discord&logoColor=white"></a>
 
 </p>
+### 😂 Random  Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=leavenfrosty&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
