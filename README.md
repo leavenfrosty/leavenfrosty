@@ -92,7 +92,7 @@ Leavenfrosty.createDay();
 ## 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Astpod&theme=dracula&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-![](https://github-readme-stats.vercel.app/api?username=leavenfrosty&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
+[![(https://github-readme-stats.vercel.app/api?username=leavenfrosty&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)]<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=leavenfrosty&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leavenfrosty&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
