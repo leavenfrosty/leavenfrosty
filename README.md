@@ -39,8 +39,7 @@ ds Leavenfrosty {
 let Leavenfrosty = new CreateMan()
 Leavenfrosty.createDay();
 ```
-<img width="640" height="640" src="https://linkstorage.linkfire.com/medialinks/images/83fcd6fd-d380-4038-937e-57882ce7f92b/artwork-640x640" align="center 
-  ">
+<img width="640" height="640" src="https://linkstorage.linkfire.com/medialinks/images/83fcd6fd-d380-4038-937e-57882ce7f92b/artwork-640x640" align="center "> </img>
 <div align="left">
   <img src="https://profile-counter.glitch.me/leavenfrosty/count.svg?"/>
 </div>
